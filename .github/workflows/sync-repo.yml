@@ -1,0 +1,28 @@
+name: Sync MangaSync repository
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 4 * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      - run: python -m pip install protobuf grpcio-tools
+      - run: python -m grpc_tools.protoc --python_out=scripts scripts/index.proto
+      - run: python scripts/sync_repo.py
+      - name: Commit updated index
+        run: |
+          git config user.name 'MangaSync Bot'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add index.json index.min.json index.pb index.html release-assets.json scripts/index_pb2.py
+          git diff --cached --quiet || git commit -m 'Sync selected Mihon extensions'
+          git push
