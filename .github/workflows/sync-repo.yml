@@ -1,6 +1,8 @@
 name: Sync MangaSync repository
 
 on:
+  push:
+    branches: [main]
   workflow_dispatch:
   schedule:
     - cron: '17 4 * * *'
@@ -19,6 +21,18 @@ jobs:
       - run: python -m pip install protobuf grpcio-tools
       - run: python -m grpc_tools.protoc --python_out=scripts scripts/index.proto
       - run: python scripts/sync_repo.py
+      - name: Validate generated index
+        run: |
+          python - <<'PY'
+          import gzip
+          import sys
+          sys.path.insert(0, 'scripts')
+          import index_pb2
+          raw = gzip.decompress(open('index.pb', 'rb').read())
+          msg = index_pb2.Index()
+          msg.ParseFromString(raw)
+          print('Valid protobuf index:', len(msg.extensionList.extensions), 'extensions')
+          PY
       - name: Commit updated index
         run: |
           git config user.name 'MangaSync Bot'
