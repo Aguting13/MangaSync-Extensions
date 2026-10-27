@@ -1,7 +1,8 @@
 {
-  "index_v2": "REPLACE_WITH_YOUR_GITHUB_RAW_URL/index.pb",
+  "index_v2": "https://raw.githubusercontent.com/Aguting13/MangaSync-Extensions/main/index.pb",
   "meta": {
     "name": "MangaSync",
+    "website": "https://github.com/Aguting13/MangaSync-Extensions",
     "signingKeyFingerprint": "9add655a78e96c4ec7a53ef89dccb557cb5d767489fac5e785d671a5a75d4da2"
   }
 }
