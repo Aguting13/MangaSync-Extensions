@@ -5,7 +5,7 @@ from pathlib import Path
 
 from google.protobuf import json_format
 
-from scripts import index_pb2
+import index_pb2
 
 UPSTREAM = "https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.json"
 KEEP = {
