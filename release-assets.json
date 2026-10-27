@@ -1,82 +1,66 @@
 {
   "eu.kanade.tachiyomi.extension.all.mangadex": {
     "apk": {
-      "name": "tachiyomi-all.mangadex-v1.6.0.apk",
-      "sha256": "12fde77601d48c8b231340694db8446fba5a555ced4109b231c9d2e3000915fb"
+      "url": "https://github.com/keiyoushi/extensions/releases/download/8ef06cd-0/tachiyomi-all.mangadex-v1.6.0.apk"
     },
     "jar": {
-      "name": "tachiyomi-all.mangadex-v1.6.0.jar",
-      "sha256": "2781d8593d68f2e79ad54f20949399c44afb703d5679299f84f7356df697008e"
+      "url": "https://github.com/keiyoushi/extensions/releases/download/f303b9c/tachiyomi-all.mangadex-v1.6.0.jar"
     }
   },
   "eu.kanade.tachiyomi.extension.en.templescan": {
     "apk": {
-      "name": "tachiyomi-en.templescan-v1.6.61.apk",
-      "sha256": "769364207a1584112dfdfa83aa9d1e896ce60aafe0115110fa63615fc0591992"
+      "url": "https://github.com/keiyoushi/extensions/releases/download/b2f4318/tachiyomi-en.templescan-v1.6.61.apk"
     },
     "jar": {
-      "name": "tachiyomi-en.templescan-v1.6.61.jar",
-      "sha256": "8c51c635626bb1e16175bb95b1c260b5d9c68e017a2ab1afd450a1bf8e9a0bf0"
+      "url": "https://github.com/keiyoushi/extensions/releases/download/b2f4318/tachiyomi-en.templescan-v1.6.61.jar"
     }
   },
   "eu.kanade.tachiyomi.extension.es.dragontranslationorg": {
     "apk": {
-      "name": "tachiyomi-es.dragontranslationorg-v1.6.59.apk",
-      "sha256": "58b60b9392fa16100b20eda693f603b92112441f29c131459588a1d5dc5f9439"
+      "url": "https://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-es.dragontranslationorg-v1.6.59.apk"
     },
     "jar": {
-      "name": "tachiyomi-es.dragontranslationorg-v1.6.59.jar",
-      "sha256": "28907ad6cbb6e37c9b1b0ed828181a561db30cdf23cc46df94fdff01b0b56dee"
+      "url": "https://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-es.dragontranslationorg-v1.6.59.jar"
     }
   },
   "eu.kanade.tachiyomi.extension.es.emperorscan": {
     "apk": {
-      "name": "tachiyomi-es.emperorscan-v1.6.71.apk",
-      "sha256": "2b3871cdd159587c13c5209c1d9601d4e1eae46de9519bc75115e4fd54eb0a06"
+      "url": "https://github.com/keiyoushi/extensions/releases/download/949dea2/tachiyomi-es.emperorscan-v1.6.71.apk"
     },
     "jar": {
-      "name": "tachiyomi-es.emperorscan-v1.6.71.jar",
-      "sha256": "1d32262a6aac446cde6be4a21ccdffa2fc20bf78881d1b03ccef3ce402fc1570"
+      "url": "https://github.com/keiyoushi/extensions/releases/download/949dea2/tachiyomi-es.emperorscan-v1.6.71.jar"
     }
   },
   "eu.kanade.tachiyomi.extension.es.mangamx": {
     "apk": {
-      "name": "tachiyomi-es.mangamx-v1.6.0.apk",
-      "sha256": "df942e18533a65ff3acb2933b4641c5e3c084a97d490c5061bee3a4cf274f2d9"
+      "url": "https://github.com/keiyoushi/extensions/releases/download/24bc6c2/tachiyomi-es.mangamx-v1.6.0.apk"
     },
     "jar": {
-      "name": "tachiyomi-es.mangamx-v1.6.0.jar",
-      "sha256": "ef8f72ec79967c92be0cee3fee0861d79d5191f3235eb3c1c56bb57067983227"
+      "url": "https://github.com/keiyoushi/extensions/releases/download/24bc6c2/tachiyomi-es.mangamx-v1.6.0.jar"
     }
   },
   "eu.kanade.tachiyomi.extension.es.manhwaweb": {
     "apk": {
-      "name": "tachiyomi-es.manhwaweb-v1.6.15.apk",
-      "sha256": "09a64db3834f309ca162005aecf8812af299ef41e9a32282883576548c9366aa"
+      "url": "https://github.com/keiyoushi/extensions/releases/download/ff521c1/tachiyomi-es.manhwaweb-v1.6.15.apk"
     },
     "jar": {
-      "name": "tachiyomi-es.manhwaweb-v1.6.15.jar",
-      "sha256": "fe150667a1fb08ade90b34e5d7ae22314d0b6b6d964b1027b02ea082cc689b5a"
+      "url": "https://github.com/keiyoushi/extensions/releases/download/ff521c1/tachiyomi-es.manhwaweb-v1.6.15.jar"
     }
   },
   "eu.kanade.tachiyomi.extension.es.yupmanga": {
     "apk": {
-      "name": "tachiyomi-es.yupmanga-v1.6.0.apk",
-      "sha256": "3de846ecc6c54b914bc036f079792f77f7c15bd8f55be32db981154ec430efb4"
+      "url": "https://github.com/keiyoushi/extensions/releases/download/24bc6c2/tachiyomi-es.yupmanga-v1.6.0.apk"
     },
     "jar": {
-      "name": "tachiyomi-es.yupmanga-v1.6.0.jar",
-      "sha256": "55ce268d9d3565116fde8d740c10c9d665bec2e4594ce469d413c81a39cff942"
+      "url": "https://github.com/keiyoushi/extensions/releases/download/24bc6c2/tachiyomi-es.yupmanga-v1.6.0.jar"
     }
   },
   "eu.kanade.tachiyomi.extension.es.zonatmoto": {
     "apk": {
-      "name": "tachiyomi-es.zonatmoto-v1.6.0.apk",
-      "sha256": "cc0e04107f95867e130a969638146b4069e3ac26c5907f201efbe8c35f86775f"
+      "url": "https://github.com/keiyoushi/extensions/releases/download/780153a/tachiyomi-es.zonatmoto-v1.6.0.apk"
     },
     "jar": {
-      "name": "tachiyomi-es.zonatmoto-v1.6.0.jar",
-      "sha256": "cf08c39794a74b5a35bd0342670a2e09f4390a1063343bc35c87af8e883df276"
+      "url": "https://github.com/keiyoushi/extensions/releases/download/780153a/tachiyomi-es.zonatmoto-v1.6.0.jar"
     }
   }
 }
