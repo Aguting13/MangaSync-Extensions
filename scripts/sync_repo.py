@@ -33,6 +33,9 @@ index = {
     "name": "MangaSync",
     "badgeLabel": "MS",
     "signingKey": data["signingKey"],
+    "contact": {
+        "website": "https://github.com/Aguting13/MangaSync-Extensions"
+    },
     "extensionList": {"extensions": selected},
 }
 (root / "index.json").write_text(json.dumps(index, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
