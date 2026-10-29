@@ -9,10 +9,10 @@
   },
   "eu.kanade.tachiyomi.extension.en.templescan": {
     "apk": {
-      "url": "https://github.com/keiyoushi/extensions/releases/download/6768cbc/tachiyomi-en.templescan-v1.6.62.apk"
+      "url": "https://github.com/keiyoushi/extensions/releases/download/7b21db6/tachiyomi-en.templescan-v1.6.63.apk"
     },
     "jar": {
-      "url": "https://github.com/keiyoushi/extensions/releases/download/6768cbc/tachiyomi-en.templescan-v1.6.62.jar"
+      "url": "https://github.com/keiyoushi/extensions/releases/download/7b21db6/tachiyomi-en.templescan-v1.6.63.jar"
     }
   },
   "eu.kanade.tachiyomi.extension.es.dragontranslationorg": {
