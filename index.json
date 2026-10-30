@@ -434,13 +434,13 @@
         "name": "Emperor Scan",
         "packageName": "eu.kanade.tachiyomi.extension.es.emperorscan",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/949dea2/tachiyomi-es.emperorscan-v1.6.71.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/dbf6c05/tachiyomi-es.emperorscan-v1.6.72.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/emperorscan/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/949dea2/tachiyomi-es.emperorscan-v1.6.71.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/dbf6c05/tachiyomi-es.emperorscan-v1.6.72.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106071",
-        "versionName": "1.6.71",
+        "versionCode": "106072",
+        "versionName": "1.6.72",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {

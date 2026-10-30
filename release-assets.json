@@ -25,10 +25,10 @@
   },
   "eu.kanade.tachiyomi.extension.es.emperorscan": {
     "apk": {
-      "url": "https://github.com/keiyoushi/extensions/releases/download/949dea2/tachiyomi-es.emperorscan-v1.6.71.apk"
+      "url": "https://github.com/keiyoushi/extensions/releases/download/dbf6c05/tachiyomi-es.emperorscan-v1.6.72.apk"
     },
     "jar": {
-      "url": "https://github.com/keiyoushi/extensions/releases/download/949dea2/tachiyomi-es.emperorscan-v1.6.71.jar"
+      "url": "https://github.com/keiyoushi/extensions/releases/download/dbf6c05/tachiyomi-es.emperorscan-v1.6.72.jar"
     }
   },
   "eu.kanade.tachiyomi.extension.es.mangamx": {
