@@ -413,13 +413,13 @@
         "name": "DragonTranslation.org",
         "packageName": "eu.kanade.tachiyomi.extension.es.dragontranslationorg",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/6768cbc/tachiyomi-es.dragontranslationorg-v1.6.60.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/1386f49/tachiyomi-es.dragontranslationorg-v1.6.62.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/dragontranslationorg/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/6768cbc/tachiyomi-es.dragontranslationorg-v1.6.60.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/1386f49/tachiyomi-es.dragontranslationorg-v1.6.62.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106060",
-        "versionName": "1.6.60",
+        "versionCode": "106062",
+        "versionName": "1.6.62",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -434,13 +434,13 @@
         "name": "Emperor Scan",
         "packageName": "eu.kanade.tachiyomi.extension.es.emperorscan",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/dbf6c05/tachiyomi-es.emperorscan-v1.6.72.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/1386f49/tachiyomi-es.emperorscan-v1.6.73.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/emperorscan/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/dbf6c05/tachiyomi-es.emperorscan-v1.6.72.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/1386f49/tachiyomi-es.emperorscan-v1.6.73.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106072",
-        "versionName": "1.6.72",
+        "versionCode": "106073",
+        "versionName": "1.6.73",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
