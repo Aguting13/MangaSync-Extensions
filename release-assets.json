@@ -9,10 +9,10 @@
   },
   "eu.kanade.tachiyomi.extension.en.templescan": {
     "apk": {
-      "url": "https://github.com/keiyoushi/extensions/releases/download/4591fbc-1/tachiyomi-en.templescan-v1.6.67.apk"
+      "url": "https://github.com/keiyoushi/extensions/releases/download/b647c92/tachiyomi-en.templescan-v1.6.68.apk"
     },
     "jar": {
-      "url": "https://github.com/keiyoushi/extensions/releases/download/4591fbc-1/tachiyomi-en.templescan-v1.6.67.jar"
+      "url": "https://github.com/keiyoushi/extensions/releases/download/b647c92/tachiyomi-en.templescan-v1.6.68.jar"
     }
   },
   "eu.kanade.tachiyomi.extension.es.dragontranslationorg": {
@@ -25,10 +25,10 @@
   },
   "eu.kanade.tachiyomi.extension.es.emperorscan": {
     "apk": {
-      "url": "https://github.com/keiyoushi/extensions/releases/download/4591fbc-1/tachiyomi-es.emperorscan-v1.6.74.apk"
+      "url": "https://github.com/keiyoushi/extensions/releases/download/b647c92/tachiyomi-es.emperorscan-v1.6.75.apk"
     },
     "jar": {
-      "url": "https://github.com/keiyoushi/extensions/releases/download/4591fbc-1/tachiyomi-es.emperorscan-v1.6.74.jar"
+      "url": "https://github.com/keiyoushi/extensions/releases/download/b647c92/tachiyomi-es.emperorscan-v1.6.75.jar"
     }
   },
   "eu.kanade.tachiyomi.extension.es.mangamx": {
