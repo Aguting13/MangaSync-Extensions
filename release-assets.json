@@ -1,10 +1,10 @@
 {
   "eu.kanade.tachiyomi.extension.all.mangadex": {
     "apk": {
-      "url": "https://github.com/keiyoushi/extensions/releases/download/061d914/tachiyomi-all.mangadex-v1.6.3.apk"
+      "url": "https://github.com/keiyoushi/extensions/releases/download/d9420cd/tachiyomi-all.mangadex-v1.6.4.apk"
     },
     "jar": {
-      "url": "https://github.com/keiyoushi/extensions/releases/download/061d914/tachiyomi-all.mangadex-v1.6.3.jar"
+      "url": "https://github.com/keiyoushi/extensions/releases/download/d9420cd/tachiyomi-all.mangadex-v1.6.4.jar"
     }
   },
   "eu.kanade.tachiyomi.extension.en.templescan": {
