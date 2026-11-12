@@ -49,10 +49,10 @@
   },
   "eu.kanade.tachiyomi.extension.es.yupmanga": {
     "apk": {
-      "url": "https://github.com/keiyoushi/extensions/releases/download/b035310-1/tachiyomi-es.yupmanga-v1.6.1.apk"
+      "url": "https://github.com/keiyoushi/extensions/releases/download/d0478bb/tachiyomi-es.yupmanga-v1.6.2.apk"
     },
     "jar": {
-      "url": "https://github.com/keiyoushi/extensions/releases/download/b035310-1/tachiyomi-es.yupmanga-v1.6.1.jar"
+      "url": "https://github.com/keiyoushi/extensions/releases/download/d0478bb/tachiyomi-es.yupmanga-v1.6.2.jar"
     }
   },
   "eu.kanade.tachiyomi.extension.es.zonatmoto": {

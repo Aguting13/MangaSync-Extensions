@@ -503,13 +503,13 @@
         "name": "Yupmanga",
         "packageName": "eu.kanade.tachiyomi.extension.es.yupmanga",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/b035310-1/tachiyomi-es.yupmanga-v1.6.1.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/d0478bb/tachiyomi-es.yupmanga-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/yupmanga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/b035310-1/tachiyomi-es.yupmanga-v1.6.1.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/d0478bb/tachiyomi-es.yupmanga-v1.6.2.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106001",
-        "versionName": "1.6.1",
+        "versionCode": "106002",
+        "versionName": "1.6.2",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
