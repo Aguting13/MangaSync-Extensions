@@ -17,10 +17,10 @@
   },
   "eu.kanade.tachiyomi.extension.es.dragontranslationorg": {
     "apk": {
-      "url": "https://github.com/keiyoushi/extensions/releases/download/b035310-1/tachiyomi-es.dragontranslationorg-v1.6.66.apk"
+      "url": "https://github.com/keiyoushi/extensions/releases/download/f1bd88d/tachiyomi-es.dragontranslationorg-v1.6.67.apk"
     },
     "jar": {
-      "url": "https://github.com/keiyoushi/extensions/releases/download/b035310-1/tachiyomi-es.dragontranslationorg-v1.6.66.jar"
+      "url": "https://github.com/keiyoushi/extensions/releases/download/f1bd88d/tachiyomi-es.dragontranslationorg-v1.6.67.jar"
     }
   },
   "eu.kanade.tachiyomi.extension.es.emperorscan": {
@@ -57,10 +57,10 @@
   },
   "eu.kanade.tachiyomi.extension.es.zonatmoto": {
     "apk": {
-      "url": "https://github.com/keiyoushi/extensions/releases/download/b035310-2/tachiyomi-es.zonatmoto-v1.6.1.apk"
+      "url": "https://github.com/keiyoushi/extensions/releases/download/80af09c/tachiyomi-es.zonatmoto-v1.6.2.apk"
     },
     "jar": {
-      "url": "https://github.com/keiyoushi/extensions/releases/download/b035310-2/tachiyomi-es.zonatmoto-v1.6.1.jar"
+      "url": "https://github.com/keiyoushi/extensions/releases/download/80af09c/tachiyomi-es.zonatmoto-v1.6.2.jar"
     }
   }
 }
