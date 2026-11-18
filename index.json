@@ -398,9 +398,9 @@
         "name": "Temple Scan",
         "packageName": "eu.kanade.tachiyomi.extension.en.templescan",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/53ca848/tachiyomi-en.templescan-v1.6.69.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/02402ef/tachiyomi-en.templescan-v1.6.69.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/templescan/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/53ca848/tachiyomi-en.templescan-v1.6.69.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/02402ef/tachiyomi-en.templescan-v1.6.69.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106069",
@@ -440,9 +440,9 @@
         "name": "Emperor Scan",
         "packageName": "eu.kanade.tachiyomi.extension.es.emperorscan",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/b035310-1/tachiyomi-es.emperorscan-v1.6.75.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/02402ef/tachiyomi-es.emperorscan-v1.6.75.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/emperorscan/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/b035310-1/tachiyomi-es.emperorscan-v1.6.75.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/02402ef/tachiyomi-es.emperorscan-v1.6.75.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106075",
