@@ -524,9 +524,9 @@
         "name": "Zonatmo.to (unoriginal)",
         "packageName": "eu.kanade.tachiyomi.extension.es.zonatmoto",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/80af09c/tachiyomi-es.zonatmoto-v1.6.2.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/2137e82/tachiyomi-es.zonatmoto-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/zonatmoto/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/80af09c/tachiyomi-es.zonatmoto-v1.6.2.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/2137e82/tachiyomi-es.zonatmoto-v1.6.2.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106002",

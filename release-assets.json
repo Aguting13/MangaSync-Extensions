@@ -57,10 +57,10 @@
   },
   "eu.kanade.tachiyomi.extension.es.zonatmoto": {
     "apk": {
-      "url": "https://github.com/keiyoushi/extensions/releases/download/80af09c/tachiyomi-es.zonatmoto-v1.6.2.apk"
+      "url": "https://github.com/keiyoushi/extensions/releases/download/2137e82/tachiyomi-es.zonatmoto-v1.6.2.apk"
     },
     "jar": {
-      "url": "https://github.com/keiyoushi/extensions/releases/download/80af09c/tachiyomi-es.zonatmoto-v1.6.2.jar"
+      "url": "https://github.com/keiyoushi/extensions/releases/download/2137e82/tachiyomi-es.zonatmoto-v1.6.2.jar"
     }
   }
 }
