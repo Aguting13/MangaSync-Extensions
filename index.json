@@ -398,9 +398,9 @@
         "name": "Temple Scan",
         "packageName": "eu.kanade.tachiyomi.extension.en.templescan",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/b4f9106-1/tachiyomi-en.templescan-v1.6.70.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/14e2239/tachiyomi-en.templescan-v1.6.70.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/templescan/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/b4f9106-1/tachiyomi-en.templescan-v1.6.70.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/14e2239/tachiyomi-en.templescan-v1.6.70.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106070",
@@ -440,9 +440,9 @@
         "name": "Emperor Scan",
         "packageName": "eu.kanade.tachiyomi.extension.es.emperorscan",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/b4f9106-1/tachiyomi-es.emperorscan-v1.6.75.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/14e2239/tachiyomi-es.emperorscan-v1.6.75.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/emperorscan/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/b4f9106-1/tachiyomi-es.emperorscan-v1.6.75.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/14e2239/tachiyomi-es.emperorscan-v1.6.75.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106075",
@@ -503,9 +503,9 @@
         "name": "Yupmanga",
         "packageName": "eu.kanade.tachiyomi.extension.es.yupmanga",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/b4f9106-2/tachiyomi-es.yupmanga-v1.6.4.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/14e2239/tachiyomi-es.yupmanga-v1.6.4.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/yupmanga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/b4f9106-2/tachiyomi-es.yupmanga-v1.6.4.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/14e2239/tachiyomi-es.yupmanga-v1.6.4.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106004",
