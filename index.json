@@ -419,9 +419,9 @@
         "name": "DragonTranslation.org",
         "packageName": "eu.kanade.tachiyomi.extension.es.dragontranslationorg",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/b4f9106-1/tachiyomi-es.dragontranslationorg-v1.6.68.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/bac637a/tachiyomi-es.dragontranslationorg-v1.6.68.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/dragontranslationorg/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/b4f9106-1/tachiyomi-es.dragontranslationorg-v1.6.68.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/bac637a/tachiyomi-es.dragontranslationorg-v1.6.68.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106068",
