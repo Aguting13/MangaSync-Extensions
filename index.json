@@ -398,9 +398,9 @@
         "name": "Temple Scan",
         "packageName": "eu.kanade.tachiyomi.extension.en.templescan",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/14e2239/tachiyomi-en.templescan-v1.6.70.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/5244cf4/tachiyomi-en.templescan-v1.6.70.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/templescan/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/14e2239/tachiyomi-en.templescan-v1.6.70.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/5244cf4/tachiyomi-en.templescan-v1.6.70.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106070",
@@ -440,9 +440,9 @@
         "name": "Emperor Scan",
         "packageName": "eu.kanade.tachiyomi.extension.es.emperorscan",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/14e2239/tachiyomi-es.emperorscan-v1.6.75.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/5244cf4/tachiyomi-es.emperorscan-v1.6.75.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/emperorscan/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/14e2239/tachiyomi-es.emperorscan-v1.6.75.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/5244cf4/tachiyomi-es.emperorscan-v1.6.75.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106075",
@@ -482,13 +482,13 @@
         "name": "ManhwaWeb",
         "packageName": "eu.kanade.tachiyomi.extension.es.manhwaweb",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/b4f9106-1/tachiyomi-es.manhwaweb-v1.6.16.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/5244cf4/tachiyomi-es.manhwaweb-v1.6.17.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/manhwaweb/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/b4f9106-1/tachiyomi-es.manhwaweb-v1.6.16.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/5244cf4/tachiyomi-es.manhwaweb-v1.6.17.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106016",
-        "versionName": "1.6.16",
+        "versionCode": "106017",
+        "versionName": "1.6.17",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {

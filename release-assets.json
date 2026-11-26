@@ -9,10 +9,10 @@
   },
   "eu.kanade.tachiyomi.extension.en.templescan": {
     "apk": {
-      "url": "https://github.com/keiyoushi/extensions/releases/download/14e2239/tachiyomi-en.templescan-v1.6.70.apk"
+      "url": "https://github.com/keiyoushi/extensions/releases/download/5244cf4/tachiyomi-en.templescan-v1.6.70.apk"
     },
     "jar": {
-      "url": "https://github.com/keiyoushi/extensions/releases/download/14e2239/tachiyomi-en.templescan-v1.6.70.jar"
+      "url": "https://github.com/keiyoushi/extensions/releases/download/5244cf4/tachiyomi-en.templescan-v1.6.70.jar"
     }
   },
   "eu.kanade.tachiyomi.extension.es.dragontranslationorg": {
@@ -25,10 +25,10 @@
   },
   "eu.kanade.tachiyomi.extension.es.emperorscan": {
     "apk": {
-      "url": "https://github.com/keiyoushi/extensions/releases/download/14e2239/tachiyomi-es.emperorscan-v1.6.75.apk"
+      "url": "https://github.com/keiyoushi/extensions/releases/download/5244cf4/tachiyomi-es.emperorscan-v1.6.75.apk"
     },
     "jar": {
-      "url": "https://github.com/keiyoushi/extensions/releases/download/14e2239/tachiyomi-es.emperorscan-v1.6.75.jar"
+      "url": "https://github.com/keiyoushi/extensions/releases/download/5244cf4/tachiyomi-es.emperorscan-v1.6.75.jar"
     }
   },
   "eu.kanade.tachiyomi.extension.es.mangamx": {
@@ -41,10 +41,10 @@
   },
   "eu.kanade.tachiyomi.extension.es.manhwaweb": {
     "apk": {
-      "url": "https://github.com/keiyoushi/extensions/releases/download/b4f9106-1/tachiyomi-es.manhwaweb-v1.6.16.apk"
+      "url": "https://github.com/keiyoushi/extensions/releases/download/5244cf4/tachiyomi-es.manhwaweb-v1.6.17.apk"
     },
     "jar": {
-      "url": "https://github.com/keiyoushi/extensions/releases/download/b4f9106-1/tachiyomi-es.manhwaweb-v1.6.16.jar"
+      "url": "https://github.com/keiyoushi/extensions/releases/download/5244cf4/tachiyomi-es.manhwaweb-v1.6.17.jar"
     }
   },
   "eu.kanade.tachiyomi.extension.es.yupmanga": {
